@@ -1,0 +1,31 @@
+_repo: From-Pole-to-PoleA-Book-for-Young-People_20709
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hedin, Sven Anders
+    aliases:
+    - Khedin, Sven Anders
+    - Gedin, Sven
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '9475'
+    url: http://www.gutenberg.org/2009/agents/9475
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2007-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+- !lcsh 'Geography'
+title: 'From Pole to Pole: A Book for Young People'
+url: http://www.gutenberg.org/ebooks/20709
